@@ -5,7 +5,7 @@
     "price": 10000,
     "currency": "NGN",
     "priceDisplay": "₦10,000",
-    "description": "Master TikTok advertising with our comprehensive blueprint. Learn how to create engaging TikTok ads that convert and drive real results for your business.",
+    "description": "Unlock the secrets to high-converting TikTok advertising. This blueprint guides you through creative strategy, campaign setup, and scaling to drive massive sales and brand visibility.",
     "image": "/images/product-tiktok-ads-mastery.jpg",
     "category": "Digital Marketing",
     "featured": true
@@ -16,7 +16,7 @@
     "price": 20000,
     "currency": "NGN",
     "priceDisplay": "₦20,000",
-    "description": "Dominate Google Search with our proven Google Ads blueprint. Learn advanced strategies to maximize your ROI and get more customers from search advertising.",
+    "description": "Master the art of Google Search Ads. Learn advanced keyword research, bidding strategies, and ad copy optimization to dominate search results and acquire high-intent customers.",
     "image": "/images/product-google-search-ads-mastery.jpg",
     "category": "Digital Marketing",
     "featured": true
@@ -27,7 +27,7 @@
     "price": 5000,
     "currency": "NGN",
     "priceDisplay": "₦5,000",
-    "description": "Discover how social media has become the new money-making machine. Learn proven strategies to monetize your social media presence and turn followers into customers.",
+    "description": "Transform your social media presence into a profitable income stream. This course reveals the exact strategies used to monetize content, build a loyal audience, and sell effectively on platforms like Selar.",
     "image": "/images/product1-social-media-the-new-money-making-machine.jpg",
     "category": "Social Media",
     "featured": true
@@ -38,10 +38,9 @@
     "price": 3000,
     "currency": "NGN",
     "priceDisplay": "₦3,000",
-    "description": "Learn why community-driven marketing is the future. Build engaged communities around your brand and create lasting customer relationships that drive sustainable growth.",
+    "description": "Discover the power of community-led growth. Learn how to build, nurture, and leverage a passionate community to drive word-of-mouth referrals, customer loyalty, and sustainable business growth.",
     "image": "/images/product-community-marketing.jpg",
     "category": "Marketing Strategy",
     "featured": true
   }
 ]
-
